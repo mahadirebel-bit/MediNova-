@@ -1,0 +1,6 @@
+{
+  "name": "MediNova",
+  "description": "Scans medical test reports and explains details using Gemini AI in simple Bengali and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
